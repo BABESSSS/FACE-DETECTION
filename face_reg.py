@@ -1,4 +1,4 @@
-import cv2
+import opencv-python as cv2
 import streamlit as st
 
 # face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default .xml')
